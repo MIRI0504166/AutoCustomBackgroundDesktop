@@ -1,6 +1,6 @@
-﻿$githubUsername = "TsofnatMaman"
+﻿$githubUsername = "MIRI0504166"
 $githubRepoName = "AutoCustomBackgroundDesktop"
-$githubBranchName = "main"
+$githubBranchName = "my-countdown"
 
 $RepoUrl = "https://github.com/$githubUsername/$githubRepoName/archive/refs/heads/$githubBranchName.zip"
 
